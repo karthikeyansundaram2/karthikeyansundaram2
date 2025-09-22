@@ -1,9 +1,28 @@
-- 👋 Hi, I’m @karthikeyansundaram2
-- 👀 I’m interested in developing
-- 🌱 I’m currently Working and learning  Javascript related frameworks
-- 💞️ I’m looking to collaborate on NodeJs and javascript related frameworks
+# Karthi Keyan 👋
+**Backend Software Engineer | 7+ yrs**  
+Node.js • AWS • Serverless • GraphQL • Next.js • TypeScript
 
-<!---
-karthikeyansundaram2/karthikeyansundaram2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## Selected projects
+- **Mail Wise** — AI email validation (Gemini models, Next.js, Firestore). Demo: https://studio--mailwise-ps4n7.us-central1.hosted.app/  
+- **Scribble Rx** — AI prescription transcription. Demo: https://studio--scribblerx.us-central1.hosted.app/login
+
+---
+
+## Quick highlights
+- Scaled serverless backend to **99% uptime** for production workloads.  
+- Reduced WebSocket latency **200ms → <5ms** by designing a LAN WebSocket approach.  
+- Implemented VTL GraphQL resolvers to **cut compute time 40%**.  
+- Mentored engineers and led backend features across gaming, streaming, and SaaS.
+
+---
+
+## How to contact
+- Email: karthikeyansundaram2@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/karthikeyan-s-264320171/  
+- Demos & repos pinned below 👇
+
+---
+
+*(Pinned repos show here on my profile — check Mail Wise and Scribble Rx for live demos and setup instructions.)*
