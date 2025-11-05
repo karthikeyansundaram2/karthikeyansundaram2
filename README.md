@@ -1,6 +1,6 @@
 # Karthi Keyan 👋
-**Backend Software Engineer | 7+ yrs**  
-Node.js • AWS • Serverless • GraphQL • Next.js • TypeScript
+**Backend Software Engineer | 6+ yrs**  
+Node.js • AWS • Serverless • GraphQL • React.js • TypeScript • Javascript • Express.Js  
 
 ---
 
