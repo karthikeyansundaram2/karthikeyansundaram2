@@ -5,7 +5,7 @@ Node.js • AWS • Serverless • GraphQL • React.js • TypeScript • Javas
 ---
 
 ## Selected projects
-- **Mail Wise** — AI email validation (Gemini models, Next.js, Firestore). Demo: https://studio--mailwise-ps4n7.us-central1.hosted.app/  
+- **Mail Wise** — AI email validation (Gemini models, Next.js, Firestore). Demo: https://www.mailwise.in  
 - **Scribble Rx** — AI prescription transcription. Demo: https://studio--scribblerx.us-central1.hosted.app/login
 
 ---
