@@ -1,9 +1,8 @@
 <h1 align="center">Hi, I'm Karthi 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/karthikeyansundaram2">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=900&color=FF3D00&center=true&vCenter=true&width=640&lines=Senior+Backend+Engineer+%C2%B7+7%2B+years;Distributed+systems+%26+real-time+infra;Event-driven+architecture+on+AWS;Building+Kaivon+Labs" alt="Senior Backend Engineer · Distributed systems · Real-time infra · AI products" />
-  </a>
+  <b>Senior Backend Engineer · 7+ years</b><br/>
+  <code>distributed systems</code> · <code>real-time infra</code> · <code>event-driven architecture</code> · <code>AI products</code>
 </p>
 
 <p align="center">
@@ -96,4 +95,4 @@ class Karthi:
 
 ---
 
-<p align="center"><i>If something here is useful, a ⭐ on <a href="https://github.com/karthikeyansundaram2/ai-interview-coach">Patternwise</a>  makes my day.</i></p>
+<p align="center"><i>If something here is useful, a ⭐ on <a href="https://github.com/karthikeyansundaram2/ai-interview-coach">Patternwise</a> makes my day.</i></p>
