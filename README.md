@@ -25,11 +25,12 @@ My product studio — small, sharp products where backend engineering and AI mee
 
 | Product | Status | What it is |
 | --- | --- | --- |
-| **Stoik** | ✅ Shipped | Crypto market-making engine built on **Avellaneda–Stoikov** reservation pricing — **12 CEX + 5 DEX connectors**, built for token issuers; continuous quoting, inventory-risk control and real-time order flow |
+| **[Stoik](https://stoik-five.vercel.app/)** | ✅ Shipped | Crypto market-making engine built on **Avellaneda–Stoikov** reservation pricing — **12 CEX + 5 DEX connectors**, built for token issuers; continuous quoting, inventory-risk control and real-time order flow |
 | **AI Software Dev** | 🛠️ In the works | A Replit-style AI dev agent that takes an idea to a full working application — multiple specialised agents orchestrated with **LangGraph** |
 
 <p>
   <a href="https://kaivonlabs.com"><img src="https://img.shields.io/badge/kaivonlabs.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="kaivonlabs.com" /></a>
+  <a href="https://stoik-five.vercel.app/"><img src="https://img.shields.io/badge/See_Stoik-FF3D00?style=for-the-badge&logoColor=white" alt="See Stoik" /></a>
 </p>
 
 ---
@@ -38,8 +39,13 @@ My product studio — small, sharp products where backend engineering and AI mee
 
 | Platform | My role | What it is |
 | --- | --- | --- |
-| **Aadigo** | Built end to end | Tokenised digital gold — every gram is an on-chain **ERC-20** token backed 1:1 by vaulted gold. I designed and built the whole system: the **Proof-of-Reserve** attestation engine, on-chain mint guards that enforce *reserves ≥ total supply*, and real-time buy/sell with mint and burn |
+| **[Aadigo](https://aadigo.com)** | Built end to end | Tokenised digital gold — every gram is an on-chain **ERC-20** token backed 1:1 by vaulted gold. I designed and built the whole system: the **Proof-of-Reserve** attestation engine, on-chain mint guards that enforce *reserves ≥ total supply*, and real-time buy/sell with mint and burn |
 | **[Zodor](https://zodor.io)** | Engineer | Real-world-asset tokenisation on Avalanche — startup equity, real estate and carbon credits as compliant on-chain tokens, with **zero-knowledge KYC**, seedless passkey wallets and gas paid in stablecoins |
+
+<p>
+  <a href="https://aadigo.com"><img src="https://img.shields.io/badge/aadigo.com-D4A017?style=for-the-badge&logoColor=white" alt="aadigo.com" /></a>
+  <a href="https://zodor.io"><img src="https://img.shields.io/badge/zodor.io-111111?style=for-the-badge&logoColor=white" alt="zodor.io" /></a>
+</p>
 
 ---
 
@@ -79,8 +85,8 @@ class Karthi:
     based_in    = "Chennai, India"
     thinks_in   = ["queues", "idempotency keys", "p99 latency", "back-pressure"]
     best_trick  = "200ms → <5ms by moving WebSockets onto the LAN"
-    building    = "Kaivon Labs — Stoik, AI Software Dev"
-    built       = ["Aadigo (tokenised gold, end to end)", "Zodor (RWA tokenisation)"]
+    building    = "Kaivon Labs — Stoik (stoik-five.vercel.app), AI Software Dev"
+    built       = ["aadigo.com (tokenised gold, end to end)", "zodor.io (RWA tokenisation)"]
     side_quest  = "turning interview prep into a free, open-source site"
 
     def ask_me_about(self) -> list[str]:
