@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Senior Backend Engineer · 7+ years</b><br/>
-  <code>distributed systems</code> · <code>real-time infra</code> · <code>event-driven architecture</code> · <code>AI products</code>
+  <code>distributed systems</code> · <code>real-time infra</code> · <code>event-driven architecture</code> · <code>Web3</code> · <code>AI products</code>
 </p>
 
 <p align="center">
@@ -27,12 +27,19 @@ My product studio — small, sharp products where backend engineering and AI mee
 | --- | --- | --- |
 | **Stoik** | ✅ Shipped | Crypto market-making engine built on **Avellaneda–Stoikov** reservation pricing — **12 CEX + 5 DEX connectors**, built for token issuers; continuous quoting, inventory-risk control and real-time order flow |
 | **AI Software Dev** | 🛠️ In the works | A Replit-style AI dev agent that takes an idea to a full working application — multiple specialised agents orchestrated with **LangGraph** |
-| **[Mail Wise](https://www.mailwise.in)** | 🟢 Live | AI email validation — Gemini, Next.js, Firestore |
-| **[Scribble Rx](https://studio--scribblerx.us-central1.hosted.app/login)** | 🟢 Live | AI prescription transcription for doctors |
 
 <p>
   <a href="https://kaivonlabs.com"><img src="https://img.shields.io/badge/kaivonlabs.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="kaivonlabs.com" /></a>
 </p>
+
+---
+
+### 🪙 Web3 platforms I've engineered
+
+| Platform | My role | What it is |
+| --- | --- | --- |
+| **Aadigo** | Built end to end | Tokenised digital gold — every gram is an on-chain **ERC-20** token backed 1:1 by vaulted gold. I designed and built the whole system: the **Proof-of-Reserve** attestation engine, on-chain mint guards that enforce *reserves ≥ total supply*, and real-time buy/sell with mint and burn |
+| **[Zodor](https://zodor.io)** | Engineer | Real-world-asset tokenisation on Avalanche — startup equity, real estate and carbon credits as compliant on-chain tokens, with **zero-knowledge KYC**, seedless passkey wallets and gas paid in stablecoins |
 
 ---
 
@@ -72,7 +79,8 @@ class Karthi:
     based_in    = "Chennai, India"
     thinks_in   = ["queues", "idempotency keys", "p99 latency", "back-pressure"]
     best_trick  = "200ms → <5ms by moving WebSockets onto the LAN"
-    building    = "Kaivon Labs — Stoik, AI Software Dev, and more"
+    building    = "Kaivon Labs — Stoik, AI Software Dev"
+    built       = ["Aadigo (tokenised gold, end to end)", "Zodor (RWA tokenisation)"]
     side_quest  = "turning interview prep into a free, open-source site"
 
     def ask_me_about(self) -> list[str]:
