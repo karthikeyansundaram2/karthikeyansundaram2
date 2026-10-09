@@ -25,7 +25,7 @@ My product studio — small, sharp products where backend engineering and AI mee
 
 | Product | Status | What it is |
 | --- | --- | --- |
-| **Stoik** | ✅ Shipped | Crypto market-making engine built on **Avellaneda–Stoikov** reservation pricing — continuous quoting, inventory-risk control and real-time order flow |
+| **Stoik** | ✅ Shipped | Crypto market-making engine built on **Avellaneda–Stoikov** reservation pricing — **12 CEX + 5 DEX connectors**, built for token issuers; continuous quoting, inventory-risk control and real-time order flow |
 | **AI Software Dev** | 🛠️ In the works | A Replit-style AI dev agent that takes an idea to a full working application — multiple specialised agents orchestrated with **LangGraph** |
 | **[Mail Wise](https://www.mailwise.in)** | 🟢 Live | AI email validation — Gemini, Next.js, Firestore |
 | **[Scribble Rx](https://studio--scribblerx.us-central1.hosted.app/login)** | 🟢 Live | AI prescription transcription for doctors |
@@ -48,6 +48,8 @@ A **free, open-source** place to learn interviews the way they actually work: re
   <a href="https://ai-interview-coach-drab-one.vercel.app"><img src="https://img.shields.io/badge/Try_it_live-FF3D00?style=for-the-badge&logoColor=white" alt="Try it live" /></a>
   <a href="https://github.com/karthikeyansundaram2/ai-interview-coach/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22"><img src="https://img.shields.io/badge/Good_first_issues-2EA043?style=for-the-badge&logo=github&logoColor=white" alt="Good first issues" /></a>
 </p>
+
+Also open source: **[WhatsApp Support AI](https://github.com/karthikeyansundaram2/whatsapp-support-ai)** — AI customer support on WhatsApp for Indian D2C brands (multi-provider LLMs, Shopify order lookup, Telegram escalation).
 
 Before Kaivon Labs I built PWAs and web apps at 10XU, Alter and LeagueX.
 
