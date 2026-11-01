@@ -25,11 +25,14 @@ My product studio — small, sharp products where backend engineering and AI mee
 
 | Product | Status | What it is |
 | --- | --- | --- |
+| **[Kanakku](https://kanakku.kaivonlabs.com/)** | 🚀 Live (beta) | GST invoice generator you **speak to in Tamil, Hindi or English** — speech → **Sarvam** STT → LLM → a Rule-46 tax invoice with GSTIN check-digit validation, CGST/SGST/IGST split and HSN summary. Email-OTP login (**Supabase + AWS SES**), **Razorpay** plans, **GSTR-1** exports for your CA, offline-first **PWA** |
 | **[Stoik](https://stoik-five.vercel.app/)** | ✅ Shipped | Crypto market-making engine built on **Avellaneda–Stoikov** reservation pricing — **12 CEX + 5 DEX connectors**, built for token issuers; continuous quoting, inventory-risk control and real-time order flow |
+| **Live Avatar** | 🛠️ In progress | Real-time talking avatar with **voice sync** — a lip-synced Indian character driven by **Sarvam** voice, Tamil-first, self-hosted TTS + avatar on cloud GPUs, heading toward live video agents |
 | **AI Software Dev** | 🛠️ In the works | A Replit-style AI dev agent that takes an idea to a full working application — multiple specialised agents orchestrated with **LangGraph** |
 
 <p>
   <a href="https://kaivonlabs.com"><img src="https://img.shields.io/badge/kaivonlabs.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="kaivonlabs.com" /></a>
+  <a href="https://kanakku.kaivonlabs.com/"><img src="https://img.shields.io/badge/Try_Kanakku-F5B942?style=for-the-badge&logoColor=111111" alt="Try Kanakku" /></a>
   <a href="https://stoik-five.vercel.app/"><img src="https://img.shields.io/badge/See_Stoik-FF3D00?style=for-the-badge&logoColor=white" alt="See Stoik" /></a>
 </p>
 
@@ -85,7 +88,7 @@ class Karthi:
     based_in    = "Chennai, India"
     thinks_in   = ["queues", "idempotency keys", "p99 latency", "back-pressure"]
     best_trick  = "200ms → <5ms by moving WebSockets onto the LAN"
-    building    = "Kaivon Labs — Stoik (stoik-five.vercel.app), AI Software Dev"
+    building    = "Kaivon Labs — Kanakku (kanakku.kaivonlabs.com), Stoik, Live Avatar, AI Software Dev"
     built       = ["aadigo.com (tokenised gold, end to end)", "zodor.io (RWA tokenisation)"]
     side_quest  = "turning interview prep into a free, open-source site"
 
@@ -95,6 +98,7 @@ class Karthi:
             "real-time infra (WebSockets, pub/sub, fan-out)",
             "market making & low-latency pricing",
             "putting LLM apps into production",
+            "voice AI for Indian languages (Tamil, Hindi)",
         ]
 ```
 
@@ -107,7 +111,7 @@ class Karthi:
   <img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,firebase,vercel,git&theme=dark" alt="React, Next.js, FastAPI, Firebase, Vercel, Git" />
 </p>
 
-**Backend:** Python (asyncio, FastAPI), Node.js / TypeScript, Express · **Data:** DynamoDB, Redis, Firestore · **Messaging:** RabbitMQ, WebSockets, pub/sub · **Cloud:** AWS (Lambda, serverless, AppSync GraphQL), Firebase, Vercel · **AI:** LLM apps, RAG, LangGraph
+**Backend:** Python (asyncio, FastAPI), Node.js / TypeScript, Express · **Data:** DynamoDB, Redis, Firestore · **Messaging:** RabbitMQ, WebSockets, pub/sub · **Cloud:** AWS (Lambda, serverless, AppSync GraphQL), Firebase, Vercel · **AI:** LLM apps, RAG, LangGraph, speech (Sarvam STT/TTS), talking avatars · **Payments & auth:** Razorpay, Supabase, AWS SES
 
 ---
 
